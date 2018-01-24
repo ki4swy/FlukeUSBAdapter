@@ -19,6 +19,7 @@
  *  https://github.com/PaulStoffregen/USBHost_t36
  *  ^ download the zip and install it via the Library - > Install option.
  *  ^ Tested Version has been saved in this Repository
+ *  ^ I also have forked the working branch to my github.
  *  
  *  Wiring Pinout:
  *    Fluke DIN 5:
