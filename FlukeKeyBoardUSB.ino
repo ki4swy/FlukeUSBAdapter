@@ -7,7 +7,13 @@
  *  Description: USB to Fluke 9100, 9105, 9110FT etc, 
  *  Version: Public Release 2018.01.23 
  *  Donations Welcome :) 
- 
+ *
+ *  Hardware Requirements
+ *  Teensy 3.6 ( pjrc or digikey part # 1568-1442-ND )  -- MUST BE a Teensy 3.6
+ *  Logic Level Converter - Bi Directional ( SparkFun ) or Digikey ( 1568-1209-ND ) ~ Or make your own.
+ *  USB Header ( pjrc or Digikey Part # ED2989-ND ) ( or cut the end of the keyboard cable off ) 
+ *  5pin Dinn Connector ( Digikey Part # SC1605-ND )
+ *
  *  
  *  Library requirements:   
  *  https://github.com/PaulStoffregen/USBHost_t36
