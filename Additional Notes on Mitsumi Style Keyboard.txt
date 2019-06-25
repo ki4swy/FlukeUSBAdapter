@@ -1,0 +1,19 @@
+
+Mitsumi Style Keyboard re-mapping 
+From Image.
+
+Print Screen = Edit
+Scroll Lock = Break
+Pause = Quit
+
+Insert = Begin Line
+Delete = End Line
+Home = Begin File
+End = End File
+Page Up = Scroll Back
+Page Down = Scroll Fwd
+
+LCtrl = Caps Lock
+LAlt = Scroll Lock
+RCtrl = Field Select 
+
